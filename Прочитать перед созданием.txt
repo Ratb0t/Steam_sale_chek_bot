@@ -1,0 +1,25 @@
+Bing написал что доступ к wishlist'у не возможен даже с OpenID, к нему можно получить доступ только если он является видимым, но если wishlist видим, то нет необходимости в OpenID т.к. просмотреть его уже можно и не авторизованным пользователям. 
+Например список желаемого 
+Андрея https://store.steampowered.com/wishlist/id/andrmiw9/#sort=order
+Леши https://store.steampowered.com/wishlist/id/kittyspet/#sort=order
+Мой https://store.steampowered.com/wishlist/profiles/76561198163262064/#sort=order
+Чел с 1 игрой https://store.steampowered.com/wishlist/id/MetalZGearCS/#sort=order
+
+
+Ссылки на профиль
+Мой https://steamcommunity.com/profiles/76561198163262064/
+Андрей https://steamcommunity.com/id/andrmiw9/
+Алексей https://steamcommunity.com/id/kittyspet/
+Чел с 1 игрой https://steamcommunity.com/id/MetalZGearCS
+
+константное значение https://store.steampowered.com/wishlist + часть со steam профиля от (не включая m) m/, \0
+
+
+
+Игры которые имеют скидку имеют у себя блок game_purchase_action_bg, где есть 
+
+Сперва найти game_purchase_discount_countdown затем apphub_AppName= "Скидка 20%. Обычная цена — 1399 pуб., цена со скидкой — 1119 pуб."
+наименование можно взять отсюда class="apphub_AppName">Ready or Not</div>
+game_purchase_discount_countdown СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ! Заканчивается 
+
+в xml файле g_rgWishlistData отвечает за wishlist appid:1145360 проект

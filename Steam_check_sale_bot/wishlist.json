@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>kittyspet's wishlist</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=GJRG1UROmBaQ&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=CrrkDubPqLcq&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/css/v6/store.css?v=ugP4ic1UKhx0&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/css/v6/game.css?v=rkKoaB20bfLa&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/css/v6/wishlist.css?v=Bb4UdkZkUIPP&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=e-GD37z7aOe7&amp;l=english" rel="stylesheet" type="text/css" >
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/shared/javascript/jquery-1.8.3.min.js?v=.TZ2NKhB-nliU" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();</script><script type="text/javascript">VALVE_PUBLIC_PATH = "https:\/\/store.akamai.steamstatic.com\/public\/";</script><script type="text/javascript" src="https://store.akamai.steamstatic.com/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0" ></script>
+
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/shared/javascript/shared_global.js?v=REEGJU1hwkYl&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/main.js?v=hD1etfEdoGz1&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/dynamicstore.js?v=fz6Sv1tbS3ZE&amp;l=english" ></script>
+
+<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Array.prototype.filter;
+	__PrototypePreserve[2] = Array.prototype.flatMap;
+	__PrototypePreserve[3] = Array.prototype.find;
+	__PrototypePreserve[4] = Array.prototype.some;
+	__PrototypePreserve[5] = Function.prototype.bind;
+	__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/prototype-1.7.js?v=.a38iP7Khdmyy" ></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Array.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+	Array.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+	Array.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+	Array.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+	Function.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">
+	var __ScriptaculousPreserve=[];
+	__ScriptaculousPreserve[0] = Array.from;
+	__ScriptaculousPreserve[1] = Function.prototype.bind;
+	__ScriptaculousPreserve[2] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=Me1IBxzktiwk&amp;l=english&amp;load=effects,controls,slider" ></script>
+<script type="text/javascript">
+	Array.from = __ScriptaculousPreserve[0] || Array.from;
+	Function.prototype.bind = __ScriptaculousPreserve[1] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __ScriptaculousPreserve[2] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				$J.data( document, 'x_readytime', new Date().getTime() );
+				$J.data( document, 'x_oldref', GetNavCookie() );
+				SetupTooltips( { tooltipCSSClass: 'store_tooltip'} );
+		});
+		</script><script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/game.js?v=1xFxPzJVp_eO&amp;l=english" ></script>
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/javascript/wishlist.js?v=fBFqVzfsaZxL&amp;l=english" ></script>
+<script type="text/javascript" src="https://store.akamai.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=pSvIAKtunfWg&amp;l=english" ></script>
+
+						<meta name="twitter:card" content="summary_large_image">
+			
+	<meta name="twitter:site" content="@steam" />
+
+						<meta property="og:title" content="kittyspet's wishlist">
+					<meta property="twitter:title" content="kittyspet's wishlist">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:site" content="Steam">
+			
+	
+			<link rel="image_src" href="https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+		<meta name="twitter:image" content="https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png" />
+					<meta property="og:image:secure" content="https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+				
+	
+	
+	
+	
+	</head>
+<body class="v6 wishlist game_bg responsive_page ">
+
+
+<div class="responsive_page_frame with_header">
+						<div role="navigation" class="responsive_page_menu_ctn mainmenu" aria-label="Mobile Menu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://store.steampowered.com/login/?redir=wishlist%2Fid%2Fkittyspet%2F&redir_ssl=1&snr=1_wishlist_4__global-header">
+									Login								</a>
+																				<a class="menuitem supernav supernav_active" href="https://store.steampowered.com/?snr=1_wishlist_4__global-responsive-menu" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					Store				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://store.steampowered.com/?snr=1_wishlist_4__global-responsive-menu">
+							Home													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/explore/?snr=1_wishlist_4__global-responsive-menu">
+							Discovery Queue													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">
+							Wishlist													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/points/shop/?snr=1_wishlist_4__global-responsive-menu">
+							Points Shop													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/news/?snr=1_wishlist_4__global-responsive-menu">
+							News													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/stats/?snr=1_wishlist_4__global-responsive-menu">
+							Stats													</a>
+									</div>
+															<a class="menuitem supernav" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					Community				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://steamcommunity.com/">
+							Home													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+							Discussions													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+							Workshop													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/market/">
+							Market													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+							Broadcasts													</a>
+									</div>
+															<a class="menuitem supernav" href="https://store.steampowered.com/about/?snr=1_wishlist_4__global-responsive-menu">
+					About				</a>
+															<a class="menuitem supernav" href="https://help.steampowered.com/en/">
+					Support				</a>
+						
+							<div class="minor_menu_items">
+																								<div class="menuitem change_language_action">
+									Change language								</div>
+																																	<a class="menuitem" href="https://store.steampowered.com/mobile" target="_blank" rel="noreferrer">Get the Steam Mobile App</a>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://store.akamai.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png"></div>
+								© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.								<span class="mainmenu_valve_links">
+									<a href="https://store.steampowered.com/privacy_agreement/?snr=1_wishlist_4__global-responsive-menu" target="_blank">Privacy Policy</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/?snr=1_wishlist_4__global-responsive-menu" target="_blank">Steam Subscriber Agreement</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/?snr=1_wishlist_4__global-responsive-menu" target="_blank">Refunds</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;Filter&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://store.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://store.steampowered.com/?snr=1_wishlist_4__global-responsive-menu">
+															<img src="https://store.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div role="banner" id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/?snr=1_wishlist_4__global-header" aria-label="Link to the Steam Homepage">
+						<img src="https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44" alt="Link to the Steam Homepage">
+					</a>
+							</span>
+		</div>
+
+			<div role="navigation" class="supernav_container" aria-label="Global Menu">
+													<a class="menuitem supernav supernav_active" href="https://store.steampowered.com/?snr=1_wishlist_4__global-header" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					STORE				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://store.steampowered.com/?snr=1_wishlist_4__global-header">
+							Home													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/explore/?snr=1_wishlist_4__global-header">
+							Discovery Queue													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">
+							Wishlist													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/points/shop/?snr=1_wishlist_4__global-header">
+							Points Shop													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/news/?snr=1_wishlist_4__global-header">
+							News													</a>
+																	<a class="submenuitem" href="https://store.steampowered.com/stats/?snr=1_wishlist_4__global-header">
+							Stats													</a>
+									</div>
+															<a class="menuitem supernav" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					COMMUNITY				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://steamcommunity.com/">
+							Home													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+							Discussions													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+							Workshop													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/market/">
+							Market													</a>
+																	<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+							Broadcasts													</a>
+									</div>
+															<a class="menuitem supernav" href="https://store.steampowered.com/about/?snr=1_wishlist_4__global-header">
+					About				</a>
+															<a class="menuitem supernav" href="https://help.steampowered.com/en/">
+					SUPPORT				</a>
+							</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-6, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div role="navigation" id="global_action_menu" aria-label="Account Menu">
+									<a class="header_installsteam_btn header_installsteam_btn_green" href="https://store.steampowered.com/about/?snr=1_wishlist_4__global-header">
+						<div class="header_installsteam_btn_content">
+							Install Steam						</div>
+					</a>
+				
+				
+									<a class="global_action_link" href="https://store.steampowered.com/login/?redir=wishlist%2Fid%2Fkittyspet%2F&redir_ssl=1&snr=1_wishlist_4__global-header">login</a>
+											&nbsp;|&nbsp;
+						<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+						<div class="popup_block_new" id="language_dropdown" style="display: none;">
+							<div class="popup_body popup_menu">
+																																					<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																													<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																													<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																													<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																													<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																													<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																													<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+																													<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																													<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																																							<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+																													<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+																													<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																													<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																													<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																													<a class="popup_menu_item tight" href="?l=indonesian" onclick="ChangeLanguage( 'indonesian' ); return false;">Bahasa Indonesia (Indonesian)</a>
+																													<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																													<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																													<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																													<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																													<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese - Portugal)</a>
+																													<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+																													<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																													<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																													<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																													<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																													<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																													<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+																													<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																									<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">Report a translation problem</a>
+							</div>
+						</div>
+												</div>
+					</div>
+			</div>
+</div>
+<div id="responsive_store_nav_ctn"></div><div id="responsive_store_nav_overlay" style="display:none"><div id="responsive_store_nav_overlay_ctn"></div><div id="responsive_store_nav_overlay_bottom"></div></div><div id="responsive_store_search_overlay" style="display:none"></div><div data-cart-banner-spot="1"></div>
+		<div role="main" class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}" >
+
+			
+<script>
+	var g_rgWishlistData = [{"appid":247770,"priority":0,"added":1399603966},{"appid":312520,"priority":2,"added":1682723252},{"appid":350280,"priority":0,"added":1498841946},{"appid":447530,"priority":3,"added":1584643634},{"appid":477740,"priority":4,"added":1681778873},{"appid":489830,"priority":5,"added":1682790514},{"appid":504230,"priority":6,"added":1711840410},{"appid":505230,"priority":7,"added":1699806942},{"appid":590380,"priority":9,"added":1698430568},{"appid":668580,"priority":11,"added":1623665647},{"appid":883710,"priority":13,"added":1576864148},{"appid":913740,"priority":14,"added":1700419236},{"appid":1030300,"priority":15,"added":1694721722},{"appid":1034140,"priority":16,"added":1713121483},{"appid":1082430,"priority":18,"added":1713102433},{"appid":1090630,"priority":19,"added":1683327902},{"appid":1144200,"priority":20,"added":1644970437},{"appid":1145350,"priority":21,"added":1694721725},{"appid":1151640,"priority":22,"added":1678995543},{"appid":1164940,"priority":23,"added":1689894461},{"appid":1203620,"priority":24,"added":1701560985},{"appid":1282100,"priority":25,"added":1689893935},{"appid":1283410,"priority":26,"added":1678828943},{"appid":1313230,"priority":27,"added":1703979792},{"appid":1349230,"priority":28,"added":1647608002},{"appid":1364780,"priority":29,"added":1693762749},{"appid":1368030,"priority":30,"added":1647605171},{"appid":1369760,"priority":31,"added":1640311736},{"appid":1371980,"priority":32,"added":1713544259},{"appid":1390410,"priority":33,"added":1699805943},{"appid":1402110,"priority":34,"added":1694531608},{"appid":1420290,"priority":35,"added":1683327541},{"appid":1501750,"priority":36,"added":1693763086},{"appid":1533420,"priority":37,"added":1699854432},{"appid":1544020,"priority":38,"added":1655138486},{"appid":1583230,"priority":39,"added":1674239399},{"appid":1592280,"priority":0,"added":1717323316},{"appid":1593500,"priority":40,"added":1678995541},{"appid":1643320,"priority":41,"added":1623625861},{"appid":1659420,"priority":42,"added":1678995549},{"appid":1687950,"priority":43,"added":1685570696},{"appid":1731290,"priority":44,"added":1701910845},{"appid":1748620,"priority":45,"added":1714570688},{"appid":1782380,"priority":46,"added":1663683937},{"appid":1845910,"priority":47,"added":1714817014},{"appid":1888930,"priority":49,"added":1678995540},{"appid":1895880,"priority":50,"added":1711283317},{"appid":1954200,"priority":51,"added":1678828632},{"appid":2054970,"priority":52,"added":1701473330},{"appid":2124490,"priority":53,"added":1685837800},{"appid":2131630,"priority":54,"added":1700171575},{"appid":2131640,"priority":55,"added":1703979289},{"appid":2131650,"priority":56,"added":1701976915},{"appid":2138710,"priority":57,"added":1682721563},{"appid":2144740,"priority":58,"added":1696810725},{"appid":2155770,"priority":59,"added":1701910213},{"appid":2157560,"priority":60,"added":1701560862},{"appid":2215430,"priority":61,"added":1710532115},{"appid":2230650,"priority":62,"added":1701910271},{"appid":2232180,"priority":63,"added":1699806895},{"appid":2273430,"priority":0,"added":1715713439},{"appid":2365810,"priority":65,"added":1700912883},{"appid":2417610,"priority":66,"added":1688553616},{"appid":2725260,"priority":67,"added":1713051487},{"appid":2732820,"priority":0,"added":1716334949},{"appid":2358720,"priority":0,"added":1719343748},{"appid":3016620,"priority":0,"added":1719528436}];
+	var g_rgAppInfo = [];
+	var g_rgPriceBrackets = [15000,30000];
+	var g_strWishlistBaseURL = "https:\/\/store.steampowered.com\/wishlist\/profiles\/76561198108667261\/";
+	var g_nAdditionalPages = 1;
+	var g_nPageSize = 100;
+	var g_bIsInSteamClient = 0;
+	var g_bIsMobileAgent = 0;
+	var g_bIsTabletAgent = 0;
+
+	var g_bCanEdit = false;
+	var g_nWalletCents = 0;
+
+	var g_strRowTemplate = "\r\n\t\t<div class=\"wishlist_row\" id=\"wishlist_row_%1$s\" data-app-id=\"%1$s\" data-panel=\"{&quot;onSecondaryActionDescription&quot;:&quot;Remove&quot;,&quot;onSecondaryButton&quot;:&quot;RemoveWishlistItem('%1$s')&quot;,&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}\" >\r\n\t\t\t<div class=\"hover_handle\">\r\n\t\t\t\t<div>\r\n\t\t\t\t\t<img src=\"https:\/\/store.akamai.steamstatic.com\/public\/images\/v6\/wishlist\/handle.png\">\r\n\t\t\t\t\t<div class=\"order\"><input class=\"order_input\" type=\"text\" value=\"%16$s\"><\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/div>\r\n\t\t\t<a class=\"capsule\" href=\"%11$s\">\r\n\t\t\t\t<img data-img-src=\"%2$s\">\r\n\t\t\t\t<div class=\"screenshots\">\r\n\t\t\t\t\t%9$s\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/a>\r\n\t\t\t<div class=\"content\">\r\n\t\t\t\t<a href=\"%11$s\" class=\"title\">\r\n\t\t\t\t\t%3$s\r\n\t\t\t\t<\/a>\r\n\t\t\t\t<div class=\"mid_container\">\r\n\t\t\t\t\t<div class=\"stats\">\r\n\t\t\t\t\t\t<div class=\"label\">Overall Reviews:<\/div>\r\n\t\t\t\t\t\t<div class=\"value game_review_summary %10$s\" data-tooltip-text=\"%13$s% of the %14$s user reviews for this game are positive.\">%4$s<\/div>\r\n\t\t\t\t\t\t<div class=\"label\">Release Date:<\/div>\r\n\t\t\t\t\t\t<div class=\"value release_date\">%5$s<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"purchase_container\" >\r\n\t\t\t\t\t\t%6$s\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t\t<div class=\"lower_container\">\r\n\t\t\t\t\t<div class=\"platform_icons\">%17$s%12$s%7$s<\/div>\r\n\t\t\t\t\t<div class=\"lower_columns\">\r\n\t\t\t\t\t\t<div class=\"tags\">%8$s<\/div>\r\n\t\t\t\t\t\t<div class=\"addedon\">%15$s<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t";
+
+	var g_Wishlist = null;
+
+	
+	GDynamicStore.OnReady(function(){
+		GStoreItemData.AddNavParams( {
+			wishlist_details: "1_wishlist_4__wishlist-details",
+			wishlist_capsule: "1_wishlist_4__wishlist-capsule",
+			wishlist_cart: "1_wishlist_4__wishlist-cart"		});
+		g_Wishlist = new CWishlistController(  );
+
+		$J('div.dropdown[data-dropdown-html]').v_tooltip({ 'dataName': 'dropdownHtml', 'defaultType':'html', 'createOnLoad': true, 'destroyWhenDone': false, 'childActiveCSSClass': 'hover', 'useMouseEnterEvent': false, 'useClickEvent': true, 'preventDefault':false, 'location':'bottom', 'tooltipClass': 'dropdown_container', 'parentActiveCSSClass': 'hover', 'offsetY':0, 'fadeSpeed': 0, 'inheritParentMinWidth': true});
+	});
+
+	
+	function RemoveWishlistItem( appid = 0 )
+	{
+		if ( g_Wishlist === null || appid === 0 )
+		{
+						return;
+		}
+
+		g_Wishlist.RemoveFromWishlist( appid );
+	}
+
+</script>
+
+<div class="game_page_background game" style="">
+
+		
+	
+    	    <div id="store_header" role="navigation" aria-label="Store Menu" class="dlc">
+		<div class="content">
+			<div id="store_controls">
+				<div class="cart_status_flex" id="cart_status_data">
+															
+													<div data-featuretarget="shoppingcart-count-widget" data-props="{&quot;count&quot;:0}"></div>
+															</div>
+			</div>
+					</div>
+	</div>
+    
+				<script type="text/javascript">
+			$J( function() {
+				BindAutoFlyoutEvents();
+
+				var $Window = $J(window);
+				var $Header = $J('#store_header');
+				var $ResponsiveNavWindowShadeCtn = $J('#responsive_store_nav_ctn');
+				var $ResponsiveNavOverlay = $J('#responsive_store_nav_overlay');
+				var $ResponsiveNavOverlayCtn = $J('#responsive_store_nav_overlay_ctn');
+				var $ResponsiveNavOverlayBottom = $J('#responsive_store_nav_overlay_bottom');
+				var $HeaderWrapper;
+				$Window.on('Responsive_SmallScreenModeToggled.StoreMenu', function() {
+					var bUseSmallScreenMode = window.UseSmallScreenMode && window.UseSmallScreenMode();
+
+											if ( !$HeaderWrapper )
+							$HeaderWrapper = $Header.wrap( $J('<div/>', {'class': 'responsive_store_nav_ctn_spacer'} ) ).parent();
+
+						if ( bUseSmallScreenMode )
+							$ResponsiveNavWindowShadeCtn.append( $Header );
+						else
+							$HeaderWrapper.append( $Header );
+
+
+						if ( bUseSmallScreenMode )
+						{
+							$Header.css( 'visibility', 'hidden' );
+							$Header.show();
+
+							var nStartingScrollPosition = $J('#store_header').height();
+							if ( $Window.scrollTop() < nStartingScrollPosition )
+								$Window.scrollTop( nStartingScrollPosition );
+
+							$Header.css('visibility', 'visible');
+						}
+									} );
+
+				window.setTimeout( function() { $J(window).trigger('Responsive_SmallScreenModeToggled.StoreMenu'); }, 0 );
+
+										var g_rgUserPreferences = {
+							excluded_tags : [],
+							excluded_content_descriptors : [3,4]						};
+						
+													g_rgUserPreferences['use_store_query'] = 1;
+						
+						g_rgUserPreferences['use_search_spellcheck'] = 1;
+						g_rgUserPreferences['search_creators_and_tags'] = 1;
+
+						if( $J('#searchform').length > 0 )
+						{
+							// default search support where the web page includes the search edit control
+							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_wishlist_4_', 'RU', 1, 'english', g_rgUserPreferences, '24186706' );
+						}
+						else
+						{
+							// search support for the mobile client.  the mobile client has a native search edit control but relies on the web content to perform the query and show results
+													}
+				
+				// make genre categories expand/collapse on mobile
+				$J(document).on( 'click', '.popup_genre_expand_header', function ( event ) {
+					if ( !UseSmallScreenMode() )
+						return;
+
+					event.preventDefault();
+					var $Element = $J(this);
+					var $Target = $J('.popup_genre_expand_content[data-genre-group=' + $Element.data('genre-group') + ']' );
+					if ( $Element.data('group-expanded') )
+					{
+						$Target.slideUp();
+						$Element.data( 'group-expanded', false );
+					}
+					else
+					{
+						$Target.slideDown();
+						$Element.data( 'group-expanded', true );
+					}
+				});
+			} );
+		</script>
+	<script type="text/javascript">
+	var g_AccountID = 0;
+	var g_sessionID = "a31bca26bb828a2ec428fd62";
+	var g_ServerTime = 1719803680;
+	var g_bUseNewCartAPI = true;
+
+	$J( InitMiniprofileHovers( 'https%3A%2F%2Fstore.steampowered.com%2F' ) );
+
+	
+			GStoreItemData.AddNavParams({
+			__page_default: "1_wishlist_4_",
+			__page_default_obj: {"domain":"store.steampowered.com","controller":"wishlist","method":"default","submethod":"","feature":null,"depth":null,"countrycode":"RU","webkey":null,"is_client":false,"curator_data":null,"is_likely_bot":false,"is_utm":null},
+			__originating_obj: {"domain":"store.steampowered.com","controller":"direct-navigation","method":"","submethod":"","feature":"","depth":0,"countrycode":"","webkey":null,"is_client":false,"curator_data":null,"is_likely_bot":false,"is_utm":false},
+			storemenu_recommendedtags: "1_wishlist_4__17"		});
+		GDynamicStore.Init( 0, false, "", {"primary_language":null,"secondary_languages":null,"platform_windows":null,"platform_mac":null,"platform_linux":null,"timestamp_updated":null,"hide_store_broadcast":null,"review_score_preference":null,"timestamp_content_descriptor_preferences_updated":null,"provide_deck_feedback":null,"additional_languages":null}, 'RU',
+			{"bNoDefaultDescriptors":false} );
+		GStoreItemData.SetCurrencyFormatter( function( nValueInCents, bWholeUnitsOnly ) { var fmt = function( nValueInCents, bWholeUnitsOnly ) {	var format = v_numberformat( nValueInCents / 100, bWholeUnitsOnly ? 0 : 2, ",", "");format = format.replace( ",00", '' ); return format; };var strNegativeSymbol = '';	if ( nValueInCents < 0 ) { strNegativeSymbol = '-'; nValueInCents = -nValueInCents; }return strNegativeSymbol + fmt( nValueInCents, bWholeUnitsOnly ) + " p\u0443\u0431.";} );
+		GStoreItemData.SetCurrencyMinPriceIncrement( 1 );
+	</script>
+
+	<div class="page_content_ctn">
+
+		<div class="page_content" style="position: relative;">
+
+			<div class="wishlist_header">
+									<div class="profile_avatar_frame">
+						<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1203220/68439f85ae83ce6429b845234e28de62a88b1f88.png">
+					</div>
+								<img src="https://avatars.akamai.steamstatic.com/e58d340e1239df14de0112f6a0c5c4f79d5c0530_full.jpg">
+				<h2>kittyspet's wishlist</h2>
+			</div>
+
+			<div class="controls">
+				<input type="text" id="wishlist_search" data-panel="[]" placeholder="Search by name or tag">
+				<div class="control_row">
+					<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="filter_tab" id="tab_filters" >
+						Options						<img src="https://store.akamai.steamstatic.com/public/images/v6/btn_arrow_down_padded_white.png" class="dropdownimg">
+					</div>
+					<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}"  class="filter_tab dropdown" id="dropdown_sort" data-dropdown-html="
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;order&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Your Rank&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;name&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Name&lt;/div&gt;
+                        &lt;div  class=&quot;item&quot; data-dropdown-value=&quot;price&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Price&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;discount&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Discount&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;dateadded&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Date Added&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;salesrank&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Top Selling&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;releasedate&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Release Date&lt;/div&gt;
+                        &lt;div class=&quot;item&quot; data-dropdown-value=&quot;reviewscore&quot; onclick=&quot;g_Wishlist.SetFilterFromDropdown('sort', this)&quot;&gt;Review Score&lt;/div&gt;
+						">
+						Sort by: <span id="label_sort">Your Rank</span>						<img src="https://store.akamai.steamstatic.com/public/images/v6/btn_arrow_down_padded_white.png" class="dropdownimg">
+					</div>
+				</div>
+			</div>
+
+			<div id="section_filters" class="filter_section">
+				<div class="wrapper">
+					<div class="category">
+						<h3>View</h3>
+						<label class="item"><input type="radio" id="viewmode_compact" name="viewmode" value="compact" onchange="g_Wishlist.SetViewMode('compact', this)"> Compact</label>
+						<label class="item"><input type="radio" id="viewmode_full" name="viewmode" value="full" onchange="g_Wishlist.SetViewMode('full', this)"> Expanded</label>
+					</div>
+					<div class="category">
+						<h3>Platform</h3>
+						<label class="item"><input type="radio" data-dropdown-value="all" id="platform_all" name="platform" onclick="g_Wishlist.SetFilterFromRadio('platform', this)"> Any OS</label>
+						<label class="item"><input type="radio" data-dropdown-value="mac" id="platform_mac" name="platform" onclick="g_Wishlist.SetFilterFromRadio('platform', this)"> macOS</label>
+						<label class="item"><input type="radio" data-dropdown-value="linux" id="platform_linux" name="platform" onclick="g_Wishlist.SetFilterFromRadio('platform', this)"> SteamOS + Linux</label>
+					</div>
+					<div class="category">
+						<h3>Type</h3>
+						<label class="item"><input type="radio" data-dropdown-value="all" id="type_all" name="type" onclick="g_Wishlist.SetFilterFromRadio('type', this)"> All Types</label>
+						<label class="item"><input type="radio" data-dropdown-value="Game" id="type_Game" name="type" onclick="g_Wishlist.SetFilterFromRadio('type', this)"> Games</label>
+						<label class="item"><input type="radio" data-dropdown-value="Application" id="type_Application" name="type" onclick="g_Wishlist.SetFilterFromRadio('type', this)"> Software</label>
+						<label class="item"><input type="radio" data-dropdown-value="DLC" id="type_DLC" name="type" onclick="g_Wishlist.SetFilterFromRadio('type', this)"> DLC</label>
+						<label class="item"><input type="radio" data-dropdown-value="Video" id="type_Video" name="type" onclick="g_Wishlist.SetFilterFromRadio('type', this)"> Videos</label>
+					</div>
+					<div class="category"  id="price_brackets_container">
+						<h3>Price</h3>
+					</div>
+					<div class="category">
+						<h3>Discount</h3>
+						<label><input class="filter_check" type="checkbox" name="discount_any"> On sale</label>
+						<label><input class="filter_check" type="checkbox" name="discount_50"> 50% or more</label>
+						<label><input class="filter_check" type="checkbox" name="discount_75"> 75% or more</label>
+					</div>
+					<div class="category">
+						<h3>Exclude</h3>
+						<label><input class="filter_check" type="checkbox" name="ex_earlyaccess"> Early Access</label>
+						<label><input class="filter_check" type="checkbox" name="ex_prerelease"> Pre-release</label>
+						<label><input class="filter_check" type="checkbox" name="ex_vr"> VR-Only</label>
+					</div>
+					<div class="category">
+						<h3>Deck Compatibility</h3>
+						<label><input class="filter_check" type="checkbox" name="deck_verified"> Verified</label>
+						<label><input class="filter_check" type="checkbox" name="deck_playable"> Playable</label>
+					</div>
+				</div>
+			</div>
+			<div class="hr"></div>
+			<div id="filters_container"></div>
+
+			<div data-panel="{&quot;autoFocus&quot;:true}" data-panel="[]" id="wishlist_ctn">
+
+			</div>
+			<div id="nothing_to_see_here" style="display: none">
+				<h2>Oops, there's nothing to show here</h2>
+				<p>There are <span id="total_num_games"></span> items on your wishlist, but none of them match the filters you have applied above</p>
+			</div>
+						<div id="throbber">
+				<div class="LoadingWrapper">
+					<div class="LoadingThrobber">
+						<div class="Bar Bar1"></div>
+						<div class="Bar Bar2"></div>
+						<div class="Bar Bar3"></div>
+					</div>
+				</div>
+			</div>
+					</div>
+
+	</div>
+
+</div></div></div></div>
+<div id="footer_spacer" style="" class=""></div>
+<div id="footer" role="contentinfo" class="">
+<div class="footer_content">
+
+    <div class="rule"></div>
+				<div id="footer_logo_steam"><img src="https://store.akamai.steamstatic.com/public/images/v6/logo_steam_footer.png" alt="Valve Software" border="0" /></div>
+
+    <div id="footer_logo"><a href="http://www.valvesoftware.com" target="_blank" rel=""><img src="https://store.akamai.steamstatic.com/public/images/footerLogo_valve_new.png" alt="Valve Software" border="0" /></a></div>
+    <div id="footer_text" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" >
+        <div>&copy; 2024 Valve Corporation.  All rights reserved.  All trademarks are property of their respective owners in the US and other countries.</div>
+        <div>VAT included in all prices where applicable.&nbsp;&nbsp;
+
+            <a href="https://store.steampowered.com/privacy_agreement/?snr=1_44_44_" target="_blank" rel="">Privacy Policy</a>
+            &nbsp; <span aria-hidden="true">|</span> &nbsp;
+            <a href="https://store.steampowered.com/legal/?snr=1_44_44_" target="_blank" rel="">Legal</a>
+            &nbsp; <span aria-hidden="true">|</span> &nbsp;
+            <a href="https://store.steampowered.com/subscriber_agreement/?snr=1_44_44_" target="_blank" rel="">Steam Subscriber Agreement</a>
+            &nbsp; <span aria-hidden="true">|</span> &nbsp;
+            <a href="https://store.steampowered.com/steam_refunds/?snr=1_44_44_" target="_blank" rel="">Refunds</a>
+            &nbsp; <span aria-hidden="true">|</span> &nbsp;
+            <a href="https://store.steampowered.com/account/cookiepreferences/?snr=1_44_44_" target="_blank" rel="">Cookies</a>
+
+        </div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+		
+    </div>
+
+
+
+    <div style="clear: left;"></div>
+	<br>
+
+    <div class="rule"></div>
+
+    <div class="valve_links" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" >
+        <a href="http://www.valvesoftware.com/about" target="_blank" rel="">About Valve</a>
+        &nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="http://www.valvesoftware.com" target="_blank" rel="">Jobs</a>
+        &nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="http://www.steampowered.com/steamworks/" target="_blank" rel="">Steamworks</a>
+        &nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="https://partner.steamgames.com/steamdirect" target="_blank" rel="">Steam Distribution</a>
+        &nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="https://help.steampowered.com/en/?snr=1_44_44_">Support</a>
+                        		&nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="https://store.steampowered.com/digitalgiftcards/?snr=1_44_44_" target="_blank" rel="">Gift Cards</a>
+		&nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.facebook.com%2FSteam" target="_blank" rel=" noopener"><img src="https://store.akamai.steamstatic.com/public/images/ico/ico_facebook.png" alt="Facebook"> Steam</a>
+		&nbsp; <span aria-hidden="true">|</span> &nbsp;<a href="http://twitter.com/steam" target="_blank" rel=""><img src="https://store.akamai.steamstatic.com/public/images/ico/ico_twitter.png" alt="X"> @steam</a>
+            </div>
+				<div class="extra_space"></div>
+	
+</div>
+</div>
+</body>
+</html>

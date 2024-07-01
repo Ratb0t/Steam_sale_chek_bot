@@ -1,0 +1,4 @@
+﻿  functions.cpp
+F:\C++ проекты\Steam_check_sale_bot\Steam_check_sale_bot\functions.cpp(245,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Steam_check_sale_bot.vcxproj -> F:\C++ проекты\Steam_check_sale_bot\x64\Debug\Steam_check_sale_bot.exe

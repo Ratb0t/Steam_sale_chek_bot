@@ -1,0 +1,4 @@
+Ваш ключ веб-API Steam
+Ключ: BD92B47F958A73D0B91B0AE099A15C5A
+
+Домен: my_check_sale_bot
