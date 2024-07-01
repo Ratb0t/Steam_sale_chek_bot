@@ -138,6 +138,7 @@ Normaliz.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClCompile Include="main_menu.cpp" />
     <ClCompile Include="profile_function.cpp" />
     <ClCompile Include="saver_8bytes_var.cpp" />
+    <ClCompile Include="settings.cpp" />
     <ClCompile Include="support_function.cpp" />
   </ItemGroup>
   <ItemGroup>

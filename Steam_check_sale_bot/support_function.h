@@ -20,4 +20,6 @@ void init_settings(settings &usr_settings);
 void save_settings(settings& usr_settings);
 bool save_url(std::string url);
 char* read_url(settings const& stng);
+const char* get_color(int color);
+
 #endif

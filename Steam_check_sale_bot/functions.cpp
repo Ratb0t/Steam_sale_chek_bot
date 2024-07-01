@@ -32,11 +32,11 @@ void get_BrowserCode_in_file(const std::string& url, std::ofstream* outfile)
 
 }
 
-int get_path()
+wchar_t* get_path()
 {
 	OPENFILENAME ofn; // Объявляем структуру OPENFILENAME для хранения информации о диалоговом окне
-	wchar_t fileName[MAX_PATH]; // Объявляем массив wchar_t для хранения пути к выбранному файлу
-	ZeroMemory(&fileName, sizeof(fileName)); // Инициализируем массив fileName нулями
+	wchar_t *fileName = new wchar_t[MAX_PATH]; // Объявляем массив wchar_t для хранения пути к выбранному файлу
+	ZeroMemory(fileName, sizeof(wchar_t) * MAX_PATH); // Инициализируем массив fileName нулями
 	ZeroMemory(&ofn, sizeof(ofn)); // Инициализируем структуру ofn нулями
 	ofn.lStructSize = sizeof(OPENFILENAME); // Устанавливаем размер структуры ofn
 	ofn.hwndOwner = NULL; // Устанавливаем владельца диалогового окна (в данном случае нет владельца)
@@ -48,7 +48,7 @@ int get_path()
 
 	if (GetOpenFileName(&ofn)) {
 		// Файл был выбран успешно
-		return 0; // ofn.lpstrFile;
+		return fileName;
 	}
 	else {
 		// Произошла ошибка
@@ -66,13 +66,15 @@ int get_path()
 			// Другие коды ошибок...
 		case FNERR_FILENOTCHOSED:
 			MY_ERROR = FNERR_FILENOTCHOSED;
-			return 0;
+			delete[] fileName;
+			return nullptr;
 			break;
 		default:
 			system("cls");
 			std::cerr << MY_COLOR_ERR_RED << error;
 			PRINT_ERROR("- неизвестная ошибка");
-			return -1;
+			delete[] fileName;
+			return nullptr;
 			break;
 		}
 	}
@@ -334,9 +336,14 @@ void find_games(const char* url)
 		return;
 	}
 }
+/*
 
+getcolor(usr_stng.color_old_price) << game.discount_info.find("") 
+			<< getcolor(usr_stng.color_new_price) <<
 
-void show_discont_data()
+*/
+
+void show_discont_data(const settings &usr_stng)
 {
 	Game game;
 	std::fstream infile;
@@ -346,7 +353,7 @@ void show_discont_data()
 		PRINT_ERROR("Файл games.db не открылся");
 		return;
 	}
-	size_t size;
+	size_t size = 0;
 	while (infile.read(reinterpret_cast<char*>(&size), sizeof(size)))
 	{
 		try
@@ -386,7 +393,25 @@ void show_discont_data()
 		}
 
 
-		std::cout << game.name << ' ' << game.discount_info << '\n' << game.countdown << '\n';
+		/*std::cout << game.name << ' ' << game.discount_info <<
+			'\n' << game.countdown << '\n';
+			getcolor(usr_stng.color_old_price) << 
+			<< getcolor(usr_stng.color_new_price) <<
+			*/
+		int start_index=0, end_index=0;
+		start_index = game.discount_info.find(" off. ");
+		end_index = game.discount_info.find("normally");
+		std::string old_price = game.discount_info.substr(start_index + strlen(" off. "), end_index - strlen("normally")-1);
+		
+		start_index  = game.discount_info.find("discounted to");
+		std::string middle_msg = game.discount_info.substr(end_index, start_index - end_index + strlen("discounted to"));
+		std::string new_price = game.discount_info.substr(start_index + strlen("discounted to"), game.discount_info.size() - start_index);
+		//std::string new_price = 
+		std::cout << game.name << ' ' 
+			<< get_color(2)/*get_color(usr_stng.color_old_price)*/ << old_price << get_color(0)
+			<< middle_msg 
+			<< get_color(1)/*get_color(usr_stng.color_old_price)*/ << new_price << get_color(0)
+			<< '\n' << game.countdown << '\n';
 		std::cout << "-----------------------------------------------------------------------------------\n";
 		game.name = "", game.discount_info = "", game.countdown = "";
 	}

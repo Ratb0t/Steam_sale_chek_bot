@@ -8,7 +8,7 @@
 #define MY_COLOR_RESET "\x1b[0m"
 #define XDEBUG
 enum { FNERR_FILENOTCHOSED = 0, USER_ID_NOT_FOUND, FILE_NOT_OPENED, TOO_LONG_FILENAME, BAD_INIT_CURL, };
-enum settings_pos{ init_default, url_is_save, };
+enum settings_pos{ settings_struct_pos };
 //#define MAX_TYPE_SYZE_SETTING 8
 
 

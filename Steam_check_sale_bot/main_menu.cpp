@@ -30,11 +30,16 @@ void main_menu()
 			clean_console = true;
 			break;
 		case '2':
-			get_path();
+		{
+			wchar_t* path_file = get_path();
+			if (path_file)
+				delete[] path_file;
 			MY_ERROR = 0;
+			clean_console = true;
 			break;
+		}
 		case '3':
-			show_discont_data();
+			show_discont_data(user_settings);
 			Sleep(1500);
 			//clean_console = true;
 			break;
