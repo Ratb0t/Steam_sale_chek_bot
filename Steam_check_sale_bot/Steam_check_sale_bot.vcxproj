@@ -104,12 +104,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>F:\C++ проекты\libs\jsons\include;F:\C++ проекты\libs\curl-8.8.0\builds\libcurl-vc-x64-release-static-ipv6-sspi-schannel\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>F:\C++ проекты\Steam_check_sale_bot\libs\jsons\include;F:\C++ проекты\Steam_check_sale_bot\libs\curl-8.8.0\builds\libcurl-vc-x64-release-static-ipv6-sspi-schannel\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>F:\C++ проекты\libs\curl-8.8.0\builds\libcurl-vc-x64-release-static-ipv6-sspi-schannel\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>F:\C++ проекты\Steam_check_sale_bot\libs\curl-8.8.0\builds\libcurl-vc-x64-release-static-ipv6-sspi-schannel\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>libcurl_a.lib;Ws2_32.lib;Crypt32.lib;
 Wldap32.lib;
 Normaliz.lib;%(AdditionalDependencies)</AdditionalDependencies>

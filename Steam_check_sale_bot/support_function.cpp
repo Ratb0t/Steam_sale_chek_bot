@@ -80,14 +80,14 @@ char* read_url(settings const &stng)
 	infile >> url;
 	infile.close();
 	int url_size = url.size();
-	char* url_ret = new char[url_size];
+	char* url_ret = new char[url_size+1];
 	std::getline(infile, url);
 	int i = 0;
 	for ( ; i < url_size; ++i)
 	{
 		url_ret[i] = url[i];
 	}
-	url_ret[i-1] = 0;
+	url_ret[url_size] = 0;
 	return url_ret;
 }
 

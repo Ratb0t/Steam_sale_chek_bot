@@ -1,4 +1,14 @@
-﻿  functions.cpp
+﻿  dir_creator.cpp
+F:\C++ проекты\Steam_check_sale_bot\Steam_check_sale_bot\dir_creator.cpp(8,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\C++ проекты\Steam_check_sale_bot\Steam_check_sale_bot\dir_creator.cpp(9,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  functions.cpp
 F:\C++ проекты\Steam_check_sale_bot\Steam_check_sale_bot\functions.cpp(245,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  main_menu.cpp
+  profile_function.cpp
+  saver_8bytes_var.cpp
+  support_function.cpp
+F:\C++ проекты\Steam_check_sale_bot\Steam_check_sale_bot\support_function.cpp(82,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
 LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
   Steam_check_sale_bot.vcxproj -> F:\C++ проекты\Steam_check_sale_bot\x64\Debug\Steam_check_sale_bot.exe

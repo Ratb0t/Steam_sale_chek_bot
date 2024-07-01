@@ -12,7 +12,7 @@
 	<link href="https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&amp;l=english" rel="stylesheet" type="text/css" >
 <link href="https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=GJRG1UROmBaQ&amp;l=english" rel="stylesheet" type="text/css" >
 <link href="https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=CrrkDubPqLcq&amp;l=english" rel="stylesheet" type="text/css" >
-<link href="https://store.akamai.steamstatic.com/public/css/v6/store.css?v=ugP4ic1UKhx0&amp;l=english" rel="stylesheet" type="text/css" >
+<link href="https://store.akamai.steamstatic.com/public/css/v6/store.css?v=Em7-gccLNGfk&amp;l=english" rel="stylesheet" type="text/css" >
 <link href="https://store.akamai.steamstatic.com/public/css/v6/game.css?v=rkKoaB20bfLa&amp;l=english" rel="stylesheet" type="text/css" >
 <link href="https://store.akamai.steamstatic.com/public/css/v6/wishlist.css?v=Bb4UdkZkUIPP&amp;l=english" rel="stylesheet" type="text/css" >
 <link href="https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=e-GD37z7aOe7&amp;l=english" rel="stylesheet" type="text/css" >
@@ -400,7 +400,7 @@
 						if( $J('#searchform').length > 0 )
 						{
 							// default search support where the web page includes the search edit control
-							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_wishlist_4_', 'RU', 1, 'english', g_rgUserPreferences, '24186706' );
+							EnableSearchSuggestions( $J('#searchform')[0].elements['term'], '1_wishlist_4_', 'RU', 1, 'english', g_rgUserPreferences, '24187073' );
 						}
 						else
 						{
@@ -430,8 +430,8 @@
 		</script>
 	<script type="text/javascript">
 	var g_AccountID = 0;
-	var g_sessionID = "a31bca26bb828a2ec428fd62";
-	var g_ServerTime = 1719803680;
+	var g_sessionID = "197ca34e3affe629e6ee12ff";
+	var g_ServerTime = 1719806695;
 	var g_bUseNewCartAPI = true;
 
 	$J( InitMiniprofileHovers( 'https%3A%2F%2Fstore.steampowered.com%2F' ) );
